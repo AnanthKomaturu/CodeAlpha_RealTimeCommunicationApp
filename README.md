@@ -168,5 +168,5 @@ For inquiries or collaborations:
 
 ## 📄 License
 
-> **This project is owned by Armaghan Malik and is intended for
+> **This project is owned by Komaturu Anantha Rao and is intended for
 > educational purposes. All rights reserved.**
