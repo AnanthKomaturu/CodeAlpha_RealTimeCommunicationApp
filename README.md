@@ -159,10 +159,10 @@ previously created communication sessions.*
 
 For inquiries or collaborations:
 
--   **Developer:** Armaghan Malik
--   **Email:** armaghanmalik81@gmail.com
--   **Phone:** +92 305 5356221
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/malik-armaghan-4629493aa)
+-   **Developer:** Komaturu Anantha Rao
+-   **Email:** komaturuanantharao@gmail.com
+
+
 
 ------------------------------------------------------------------------
 
